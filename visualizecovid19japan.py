@@ -14,6 +14,7 @@ def graph_japan_data(japancsvfile,prefecture):
     import matplotlib.pyplot as plt
     oneprefecturedata.plot(x='Date',y='Positive',color='red')
     plt.show()
+    print(oneprefecturedata.describe())
     
 def main():
     parser = argparse.ArgumentParser(description='graph one japan prefecture covid data')
