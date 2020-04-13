@@ -14,6 +14,7 @@ def graph_country_data(worldcovid19csvfile,country):
     import matplotlib.pyplot as plt
     onecountrydata.plot(x='date',y='new_cases',color='red')
     plt.show()
+    print(onecountrydata.describe())
     
 def main():
     parser = argparse.ArgumentParser(description='graph one country covid data')
