@@ -4,17 +4,23 @@ Graph COVID-19 statistics against date using csv files. Visualize COVID-19 stati
 ### Prerequisites
 
 pip3 install pandas
+
 pip3 install matplotlib
+
 pip3 install Gooey
+
 pip3 install pandas-profiling
 
 ## Graph World COVID-19 data
 
 Enter statistic
+
 Enter country name
 
 -Optional
+
 Enter additional country name(s)
+
 Enter a name for the path of your new html profile report
 
 COVID-19 data source: ourworldindata.org - https://covid.ourworldindata.org/data/ecdc/full_data.csv
