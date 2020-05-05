@@ -17,11 +17,12 @@ Enter statistic
 
 Enter country name
 
--Optional
 
-Enter additional country name(s)
+Optional:
 
-Enter a name for the path of your new html profile report
+  Enter additional country name(s)
+
+  Enter a name for the path of your new html profile report
 
 COVID-19 data source: ourworldindata.org - https://covid.ourworldindata.org/data/ecdc/full_data.csv
 
