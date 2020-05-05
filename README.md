@@ -3,6 +3,8 @@ Graph world COVID-19 statistics against date using csv files. Visualize COVID-19
 
 ### Prerequisites
 
+#### Python 3
+
 pip3 install pandas
 
 pip3 install matplotlib
