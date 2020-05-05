@@ -13,6 +13,8 @@ pip3 install pandas-profiling
 
 ## Graph World COVID-19 data
 
+Execute: updated_COVID19_data_countries.py
+
 Enter statistic
 
 Enter country name
