@@ -33,11 +33,13 @@ Get Japan data set from kaggle: https://www.kaggle.com/lisphilar/covid19-dataset
 
 Unzip and use covid_jpn_prefecture.csv
 
-usage: visualizecovid19japan.py japancsvfile prefecture [--profile_report_html PROFILE_REPORT_HTML]
+usage: visualizecovid19japan.py japan_csv_file_path_name prefecture
 
   e.g. ./visualizecovid19japan.py covid_jpn_prefecture.csv Osaka 
 
-Optional-generate a profile report with pandas-profiling
+-Optional:
+
+Generate a profile report with pandas-profiling.
 
 optional arguments:
 
