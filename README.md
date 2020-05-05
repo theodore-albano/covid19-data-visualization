@@ -19,12 +19,11 @@ Enter statistic
 
 Enter country name
 
+-Optional:
 
-Optional:
+Enter additional country name(s)
 
-  Enter additional country name(s)
-
-  Enter a name for the path of your new html profile report
+Enter a name for the path of your new html profile report
 
 COVID-19 data source: ourworldindata.org - https://covid.ourworldindata.org/data/ecdc/full_data.csv
 
@@ -42,58 +41,102 @@ Optional-generate a profile report with pandas-profiling
 
 optional arguments:
 
-  --profile_report_html PROFILE_REPORT_HTML
-                        path name of generated html profile report
+  --profile_report_html create_new_path_name_for_html_profile_report
 
   e.g. ./visualizecovid19japan.py covid_jpn_prefecture.csv Osaka --profile_report_html osaka_profile_report.html
 
 List of prefectures in Japan:
 
 Hokkaido
-Aomori
-Iwate
-Miyagi
-Akita
-Yamagata
-Fukushima
-Ibaraki
-Tochigi
-Gunma
-Saitama
-Chiba
-Tokyo
-Kanagawa
-Niigata
-Toyama
-Ishikawa
-Fukui
-Yamanashi
-Nagano
-Gifu
-Shizuoka
-Aichi
-Mie
-Shiga
-Kyoto
-Osaka
-Hyogo
-Nara
-Wakayama
-Tottori
-Shimane
-Okayama
-Hiroshima
-Yamaguchi
-Tokushima
-Kagawa
-Ehime
-Kouchi
-Fukuoka
-Saga
-Nagasaki
-Kumamoto
-Oita
-Miyazaki
-Kagoshima
-Okinawa
 
+Aomori
+
+Iwate
+
+Miyagi
+
+Akita
+
+Yamagata
+
+Fukushima
+
+Ibaraki
+
+Tochigi
+
+Gunma
+
+Saitama
+
+Chiba
+
+Tokyo
+
+Kanagawa
+
+Niigata
+
+Toyama
+
+Ishikawa
+
+Fukui
+
+Yamanashi
+
+Nagano
+
+Gifu
+
+Shizuoka
+
+Aichi
+
+Mie
+
+Shiga
+
+Kyoto
+
+Osaka
+
+Hyogo
+
+Nara
+
+Wakayama
+
+Tottori
+
+Shimane
+
+Okayama
+
+Hiroshima
+
+Yamaguchi
+
+Tokushima
+
+Kagawa
+
+Ehime
+
+Kouchi
+
+Fukuoka
+
+Saga
+
+Nagasaki
+
+Kumamoto
+
+Oita
+
+Miyazaki
+
+Kagoshima
+
+Okinawa
